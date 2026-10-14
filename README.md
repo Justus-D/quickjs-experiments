@@ -4,6 +4,11 @@ A small collection of hand-crafted experiments using the
 [QuickJS JavaScript Engine](https://bellard.org/quickjs/)
 by Fabrice Bellard and Charlie Gordon.
 
+Note that these experiments are, well, experimental and should not
+be used in any kind of production environment. I'm also using
+as little help from LLMs as possible so there may be very obvious
+memory management bugs. This is mostly a learning experience for me.
+
 ## curl-fetch
 
 This is my attempt at creating an implementation of the
